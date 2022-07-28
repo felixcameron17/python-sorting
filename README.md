@@ -13,4 +13,4 @@ Selection sort works by finding the smallest value in a list, and moving it to t
 
 Insertion sort is similar to bubble sort, it works by moving a value backwards on a list until it reaches a value that is smaller than it. This is a far more optimised version of bubble sorting as it only has to run through the list once, but it can take longer for each value. It is also a bit more challenging to code but not too difficult.
 
-no extra libraries are needed besides pytest (if you want to test it). the only other libraries being used are random and time which are built in 
+no extra libraries are needed besides matplotlib and pytest (if you want to test it). the only other libraries being used are random and time which are built in 
